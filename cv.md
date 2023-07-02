@@ -34,3 +34,19 @@ I like to study and learn something new. I am glad that I am participating in su
 
 ***********
 ***********
+
+## ***EDUCATION AND COURSES***
+
+- RS school 0 level (in process)
+- QA trainings
+
+***********
+***********
+
+## ***LANGUAGES***
+
+- Russian - native 
+- English - B2 
+
+***********
+***********
