@@ -14,3 +14,23 @@
 
 ***********
 ***********
+
+## ***SKILLS***
+
+1. Basic knowledge of following technologies:
+   * HTML
+   * CSS
+   * JS
+2. Basic knowledge of following applications and tools:
+   * Postman
+   * DevTools
+
+***********
+***********
+
+## ***ABOUT ME***
+
+I like to study and learn something new. I am glad that I am participating in such a project as RS school.
+
+***********
+***********
